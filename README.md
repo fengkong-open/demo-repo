@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/fengkong-open/demo-repo/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+https://fengkong-open.github.io/demo-repo/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
